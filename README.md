@@ -25,16 +25,20 @@ npm install
 ```bash
 npm run dev
 ```
-4. To install Fontawesome Icons 
+4. To install Fontawesome Icons
+   
 npm i --save @fortawesome/fontawesome-svg-core
+
 # Free icons styles
-npm i --save @fortawesome/free-solid-svg-icons
-npm i --save @fortawesome/free-regular-svg-icons
-npm i --save @fortawesome/free-brands-svg-icons
+1. npm i --save @fortawesome/free-solid-svg-icons
 
-npm i --save @fortawesome/react-fontawesome@latest
+2. npm i --save @fortawesome/free-regular-svg-icons
 
-npm install font-awesome --save
+3. npm i --save @fortawesome/free-brands-svg-icons
+
+4. npm i --save @fortawesome/react-fontawesome@latest
+
+5. npm install font-awesome --save
 
 
 5. Open your web browser and go to http://localhost:3000.
